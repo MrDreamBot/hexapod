@@ -1,0 +1,4 @@
+Sr04			KEYWORD1
+get_pulse_length	KEYWORD2
+get_distance_cm		KEYWORD2
+get_distance_in		KEYWORD2

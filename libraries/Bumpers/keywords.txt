@@ -1,0 +1,3 @@
+Bumpers			KEYWORD1
+is_left_bumper_hit	KEYWORD2
+is_right_bumper_hit	KEYWORD2
